@@ -1,0 +1,4 @@
+baseURL = 'https://belphonz.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = 'poison'
