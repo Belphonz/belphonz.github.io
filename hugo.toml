@@ -2,6 +2,7 @@ baseURL = 'https://belphonz.github.io/'
 languageCode = 'en-us'
 title = "Portfolio - Aethel B. Crown"
 theme = 'poison'
+paginate = 10
 pluralizelisttitles = false
 
 
@@ -15,7 +16,7 @@ pluralizelisttitles = false
     favicon = "/assets/favicon.ico"
 
     menu = [
-        {Name = "Education History", HasChildren = false, URL = "/education/"},
+        {Name = "About Me", HasChildren = false, URL = "/about/"},
         
     ]
     front_page_content = ["education"]
@@ -24,3 +25,5 @@ pluralizelisttitles = false
     github_url = "https://github.com/Belphonz"
     linkedin_url = "https://www.linkedin.com/in/aethel-crown/"
     twitter_url = "https://x.com/AethelCrown"
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
