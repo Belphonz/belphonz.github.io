@@ -24,5 +24,6 @@ pluralizelisttitles = false
     github_url = "https://github.com/Belphonz"
     linkedin_url = "https://www.linkedin.com/in/aethel-crown/"
     twitter_url = "https://x.com/AethelCrown"
+    email_url = "mailto:aethel.crown@gmail.com"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
