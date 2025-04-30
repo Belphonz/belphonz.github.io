@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Portfolio - Aethel B. Crown</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Portfolio - Aethel B. Crown</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starve Style</title>
+      <link>http://localhost:1313/projects/starvestyle/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/starvestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Level Editor</title>
+      <link>http://localhost:1313/projects/leveleditor/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/leveleditor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text Engine</title>
+      <link>http://localhost:1313/projects/textengine/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/textengine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literal</title>
+      <link>http://localhost:1313/projects/literal/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/literal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

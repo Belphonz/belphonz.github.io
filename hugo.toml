@@ -17,10 +17,9 @@ pluralizelisttitles = false
 
     menu = [
         {Name = "About Me", HasChildren = false, URL = "/about/"},
-        
+        {Name = "Projects", Pre = "Recent",HasChildren = true, Limit = 5,URL = "/Projects/"},
     ]
-    front_page_content = ["education"]
-    reading_time = true
+    front_page_content = ["projects"]
 
     github_url = "https://github.com/Belphonz"
     linkedin_url = "https://www.linkedin.com/in/aethel-crown/"
