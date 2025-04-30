@@ -17,7 +17,7 @@ pluralizelisttitles = false
 
     menu = [
         {Name = "About Me", HasChildren = false, URL = "/about/"},
-        {Name = "Projects", Pre = "Recent",HasChildren = true, Limit = 5,URL = "/Projects/"},
+        {Name = "Projects", Pre = "Recent",HasChildren = true, Limit = 5,URL = "/projects/"},
     ]
     front_page_content = ["projects"]
 
